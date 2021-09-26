@@ -1,2 +1,2 @@
-This simple React App is for a user component where users can enter their username and age. This information is then rendered on the page(below the form). An error modal is created to pop up in case of invalid data entered. This error modal is cleared by clicking an 'OK' button or by clicking the backdrop.
-Concepts in use: managing user input state, reusing components, data validation and resetting, rendering a list, rendering error modal and managing error state.
+'This simple React App is for a user component where users can enter their username and age. This information is then rendered on the page(below the form). An error modal is created to pop up in case of invalid data entered. This error modal is cleared by clicking an 'OK' button or by clicking the backdrop.
+Concepts in use: managing user input state, reusing components, data validation and resetting, rendering a list, rendering error modal and managing error state'
